@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>欢迎登录</title>
+<link href="css/login.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="js/tool.js"></script>
+</head>
+<body>
+<div class="wrapper">
+	<div class="loginArea">
+			<div class="inputArea">
+			<h1 class="head">欢迎登录</h1>
+				<form>
+				<input type="text" name="userAccount" placeholder="邮箱号" title="邮箱号" autofocus="autofocus">
+				<p id="userAccount-error"></p>
+				<input type="password" name="userPassword" placeholder="请输入密码" maxlength="20">
+				<p id="userPassword-error"></p>
+				</form>
+				<div class="canvas-area">
+					<canvas class="canvas"></canvas>
+					<button class="refresh"></button>
+				</div>
+				<div class="vericode-input">
+				<div>输入验证码: <input type="text" class="vericode" maxlength="6"><p class="vericode-error"></p></div>
+				</div>
+		</div>
+			<button class="confirmLogin">登录</button>
+			<span id="forgetPassword" style="margin-left: 80px;">忘记密码?</span>
+			<span id="registerNow" style="margin-left: 150px;">注册账号?</span>
+	</div>
+</div>
+
+</body>
+<script type="text/javascript" src="js/login.js"></script>
+</html>

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>天速快传</title>
+        <meta name="keywords" content="文件传输、文件传输网、文件传输网站、不限速传文件">
+        <meta name="description" content="文件传输、文件传输网、文件传输网站、不限速传文件">
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+        <script type="text/javascript" src="js/tool.js"></script>
+    </head>
+    <body>
+
+        <div class="suCai17-content">
+            <div class="suCai17-background clearfix">
+                <div class="suCai17-nav hd">
+                    <ul class="suCai17-nav-list">
+                        <li class="suCai17-item on" id="openLi">
+                            <i class="icon icon-image01"></i>
+                            <span class="suCai17-title">在线打开</span>
+                        </li>
+                        <li class="suCai17-item" id="recordLi">
+                            <i class="icon icon-image02"></i>
+                            <span class="suCai17-title">历史记录</span>
+                        </li>
+                        <li class="suCai17-item">
+                            <i class="icon icon-image03"></i>
+                            <span class="suCai17-title">在线传输</span>
+                        </li>
+                        <li class="suCai17-item" id="uploadLi">
+                            <i class="icon icon-image04"></i>
+                            <span class="suCai17-title">文件上传</span>
+                        </li>
+                        <li class="suCai17-item" id="downloadLi">
+                            <i class="icon icon-image05"></i>
+                            <span class="suCai17-title">文件下载</span>
+                        </li>
+                        <li class="suCai17-item" id="accountLi">
+                            <i class="icon icon-image06"></i>
+                            <span class="suCai17-title" id="accountText">欢迎登录</span>
+                        </li>
+                        <li class="suCai17-item" style="color: red;">
+                            *注意：文件上传完毕后会返回文件提取码，离开网 页即丢失，请务必保存好！
+                        </li>
+                    </ul>
+                </div>
+                <div class="suCai17-search clearfix">
+                    <div class="suCai17-search-input">
+                        <input type="text" placeholder="在此处输入文件提取码" id="fileCode" maxlength="20" onKeyUp="value=value.replace(/[\W]/g,'')">
+                    </div>
+                    <div class="suCai17-search-btn" id="openButton">打开</div>
+                    <div class="suCai17-search-btn" id="upload">上传</div>
+                    <div class="suCai17-search-btn" id="download">提取</div>
+                    
+                </div>
+                <div class="suCai17-info bd">
+                    <ul>
+                        <li>
+                            <div class="table-pub">
+                                <table width="100%">
+                                    <tr><th colspan="10">在线打开支持的格式如下：.mp4 .mp3 .png .jpg .jpeg .gif</th></tr>
+                                    <tr>
+                                        <th>文件名称</th><td colspan="2" id="fileNameTd"></td>
+                                        <td colspan="7" rowspan="8" id="openTargetTd">
+                                           
+                                        </td>
+                                    </tr>
+                                    <tr><th>文件大小</th><td colspan="2" id="fileSizeTd"></td></tr>
+                                    <tr><th>文件格式</th><td colspan="2" id="fileKindTd"></td></tr>
+                                    <tr><th>上传时间</th><td colspan="2" id="uploadTimeTd"></td></tr>
+                                    <tr><th>截止时间</th><td colspan="2" id="deadlineTd"></td></tr>
+                                    <tr><th>文件取码</th><td colspan="2" id="fileCodeTd"></td></tr>
+                                    <tr><th>打开状态</th><td colspan="2" id="openStatusTd"></td></tr>
+                                    <tr><th>操作</th><td colspan="2" id="operateTd"></td></tr>
+                                </table>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <div class="table-pub">
+                                <table width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th width="7%">操作</th>
+                                            <th width="20%">文件名称</th>
+                                            <th width="11%">文件大小</th>
+                                            <th width="20%">文件取码</th>
+                                            <th width="18%">对方账号</th>
+                                            <th width="10%">对方昵称</th>
+                                            <th width="14%">完成时间</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="recordDetail">
+                                        <tr><td colspan="7">历史记录(*请登录后查看)</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <div class="table-pub">
+                                <table width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th width="18%">接收者账号</th>
+                                            <th width="12%">昵称</th>
+                                            <th width="30%">上传进度</th>
+                                            <th width="12%">文件大小</th>
+                                            <th width="18%">文件名称</th>
+                                            <th width="10%">状态</th>
+                                            <th style="display: none;"></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="transferDetail">
+                                        <tr>
+                                            <td><input type="email" placeholder="请输入对方邮箱"></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td><a class='pay-now lg-layer'>选择</a></td>
+                                            <td style="display: none;">神秘</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul id="uploadArea">
+                        <li>
+                            <div class="table-pub">
+                                <table width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th width="32%">文件名称</th>
+                                            <th width="34%">上传进度/提取码</th>
+                                            <th width="14%">文件大小</th>
+                                            <th width="20%">操作</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="uploadDetail"></tbody>
+                                </table>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul id="downloadArea">
+                        <li>
+                            <div class="table-pub">
+                                <table width="100%">
+                                    <thead>
+                                    <tr>
+                                        <th width="20%">文件取码</th>
+                                        <th width="24%">文件名称</th>
+                                        <th width="16%">上传时间</th>
+                                        <th width="16%">截止时间</th>
+                                        <th width="12%">文件大小</th>
+                                        <th width="12%">操作</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody id="downloadDetail"></tbody>
+                                </table>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            
+            jQuery(".suCai17-background").slide({
+                autoPlay: false,
+                trigger: "click",
+                easing: "easeOutCirc",
+                delayTime: 1000
+            });
+
+            jQuery(".suCai17-side").slide({
+                titCell:"h3",
+                targetCell:"ul",
+                defaultIndex:1,
+                effect:"slideDown",
+                trigger:"click"
+            });
+
+        </script>
+    </body>
+</html>

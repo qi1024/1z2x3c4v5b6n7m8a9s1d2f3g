@@ -1,0 +1,33 @@
+syntax = "proto3";
+package transfer;
+
+
+message User{
+	int32 userID=1;
+	string account=2;
+	string password=3;
+	string status=4;
+	string nickname=5;
+	string createTime=6;
+}
+
+message File{
+	int32 fileID=1;
+	uint64 fileSize=2;
+	string fileCode=3;
+	bytes fileName=4;
+	bytes filePath=5;
+	string uploadTime=6;
+}
+
+message Record{
+	int32 recordID=1;
+	string account=2;
+	string operation=3;
+	string targetAccount=4;
+	string nickname=5;
+	string fileName=6;
+	uint64 fileSize=7;
+	string fileCode=8;
+	string operateTime=9;
+}

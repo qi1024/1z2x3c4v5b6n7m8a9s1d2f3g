@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>欢迎登录</title>
+</head>
+
+<body>
+<h1>WebSOcket测试网页</h1>
+<input type="file" accept="*/*" id="file">
+<input type="button" id="sendButton" value="发送">
+</body>
+<script type="text/javascript">
+    var ws=null;
+
+    function send(){
+        var file=document.getElementById("file").files[0];
+        ws.send(file);
+        console.log("文件发送完成");
+    }
+
+    function WebSocketTest(){
+        if ("WebSocket" in window){
+            console.log("您的浏览器支持 WebSocket!");
+            ws = new WebSocket("ws://192.168.31.170:7070/websocket");
+            ws.binaryType = "blob";
+            ws.onopen = function(){
+                ws.send("connect");
+                console.log("数据发送完成:"+ws.bufferedAmount);
+            };
+            
+            ws.onmessage = function (evt) { 
+                var received_msg = evt.data;
+                alert("数据已接收:"+received_msg);
+            };
+
+            ws.onerror=function(evt){
+                console.log("error=");
+                console.log(evt);
+            }
+            
+            ws.onclose = function(event){ 
+                console.log(event.code);
+                console.log(event.reason);
+            };
+        }
+        else{ alert("您的浏览器不支持 WebSocket!");}
+    }
+
+    window.onload=function(){
+	    WebSocketTest();
+        document.getElementById("sendButton").onclick=function(){send();}
+    }
+</script>
+</html>

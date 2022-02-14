@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>欢迎注册</title>
+<link rel="stylesheet" href="css/register.css">
+<script type="text/javascript" src="js/tool.js"></script>
+</head>
+<body>
+	<div class="wrapper">
+		<h1 class="head">天速快传注册系统</h1>
+		<form action="Register.do" action="POST" class="register">
+		<input type="text" name="userName" placeholder="请输入用户名(2-15位)" maxlength="15"><!-- 第0个input是用户名 -->
+		<span id="userName-true"><img src="images/RegisterMaterial/true.png"></span>
+		<span id="userName-false"><img src="images/RegisterMaterial/false.png"></span>
+		<p id="userName-error"></p>
+		
+		<input type="text" name="userAccount" placeholder="请输入邮箱号" title="邮箱号" maxlength="30"><!-- 地1个input是用户账号 -->
+		<span id="userAccount-true"><img src="images/RegisterMaterial/true.png"></span>
+		<span id="userAccount-false"><img src="images/RegisterMaterial/false.png"></span>
+		<p id="userAccount-error"></p>
+		
+		<input type="password" name="userPassword" placeholder="请输入密码" maxlength="20"><!-- 第2个input是用户密码 -->
+		<span id="userPassword-true"><img src="images/RegisterMaterial/true.png"></span>
+		<span id="userPassword-false"><img src="images/RegisterMaterial/false.png"></span>
+		<p id="userPassword-error"></p>
+		
+		<input type="password" name="confirmPassword" placeholder="请确认密码" maxlength="20"><!-- 第3个input是确认密码 -->
+		<span id="confirmPassword-true"><img src="images/RegisterMaterial/true.png"></span>
+		<span id="confirmPassword-false"><img src="images/RegisterMaterial/false.png"></span>
+		<p id="confirmPassword-error"></p>
+		
+		<input type="text" maxlength="6" placeholder="请输入验证码" name="vericodeEmail"><!-- 第4个input是手机验证码 -->
+		<span id="vericodeEmail-true"><img src="images/RegisterMaterial/true.png"></span>
+		<span id="vericodeEmail-false"><img src="images/RegisterMaterial/false.png"></span>
+		</form>
+		<p id="vericodeEmail-error"></p>
+		<h3 class="getCodeA">获取验证码</h3>
+		<button class="submitButton">提交</button>
+		<p class="forgetPassword">已有账号, 但忘记密码?</p>
+		<p class="loginNow">已有账号,返回登录?</p>
+	</div>
+	
+	<div class="grayout">
+	<div class="centerVericode">
+		<button class="close"></button>
+		<div class="canvas-area">
+				<canvas class="canvas"></canvas>
+				<button class="refresh"></button>
+		</div>
+		<div class="vericode-input">
+			<div>输入验证码: <input type="text" class="vericode" maxlength="6"></div>		<!-- 第5个input是前端验证码 -->
+			<p class="vericode-error"></p>
+		</div>
+		<div><button class="vericodeConfirm">确认</button></div>
+	</div>
+	</div>
+	
+	<!-- 下面是开场动画 -->
+	<canvas id="raincode"></canvas>
+</body>
+<script type="text/javascript" src="js/register.js" async="async"></script>
+</html>

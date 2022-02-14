@@ -1,0 +1,210 @@
+@charset "UTF-8";
+
+*{
+	margin:0;
+	padding:0;
+	font-family:Arial;
+}
+
+html,body{
+	width:100%;
+	height:100%;
+}
+
+body{
+	background:url("../images/RegisterMaterial/registerbg.png");
+	background-size:cover;
+}
+
+.wrapper{
+	top:50px;
+	right:50px;
+	position:absolute;
+	width:400px;
+	height:600px;
+	background-color:white;
+}
+
+.head{
+	text-align:center;
+	color:rgb(0,159,233);
+}
+
+.register{
+	width:100%;
+	display:block;
+}
+
+.register input,.vericodeEmail{
+	width:300px;
+	height:30px;
+	margin-left:30px;
+	margin-top:10px;
+	font-size:16px;
+}
+
+.register span{
+	display:none;
+}
+
+.register img{
+	width:20px;
+	height:20px;
+}
+              
+.register p, #vericodeEmail-error{
+	width:300px;
+	height:30px;
+	line-height:30px;
+	margin-left:30px;
+	margin-top:10px;
+	display:block;
+	color:red;
+}
+
+#vericodeEmail-error{
+	display:inline-block;
+}
+
+.getCodeA{
+	text-decoration: underline;
+	color:rgb(0,159,233);
+	cursor:pointer;
+	text-align:center;
+}
+
+.submitButton{
+	width:300px;
+	height:40px;
+	border:none;
+	margin-left:40px;
+	margin-top:10px;
+	background-color:#95C648;
+	font-size:16px;
+	display:block;
+	cursor:pointer;
+}
+
+.forgetPassword{
+	left:10px;
+	margin-top:20px;
+	position:absolute;
+	text-decoration: underline;
+	color:rgb(0,159,233);
+	cursor:pointer;
+	text-align:center;
+	display:inline-block;
+}
+.loginNow{
+	right:10px;
+	margin-top:20px;
+	display:block;
+	position:absolute;
+	text-decoration: underline;
+	color:rgb(0,159,233);
+	cursor:pointer;
+	text-align:center;
+	display:inline-block
+}
+
+ .close {
+    background:white;
+    color:#95C648;
+    border-radius:50%;
+    border:none;
+    line-height: 50px;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+    padding: 1px;
+    top: -15px;
+    right: -15px;
+    position: absolute;
+    opacity: 0.9;
+    cursor:pointer;
+}
+.close::before {
+    /*content: "\2716";*/
+    content:"X";
+}
+
+.grayout{
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.4);
+     display:none;
+ }
+         
+
+.vericode-error{
+	height:20px;
+	text-align:center;
+	color:red;
+}
+
+.vericode-input div{
+	margin-left:50px;
+	margin-top:30px;
+	position:relative;
+}
+
+.vericode-input div input{
+	width:200px;
+	height:30px;
+}
+
+
+.centerVericode{
+	 position:relative;
+     width: 400px;
+     height: 300px;
+     margin: 200px auto;
+     background-color:white;
+}
+
+.canvas{
+	width:270px;
+	height:80px;
+	margin-left:50px;
+	margin-top:40px;
+	border:1px solid #000;
+    border-radius: 5px;
+    background-image: url("../images/RegisterMaterial/canvasbg.png");
+}
+.refresh{
+	position: absolute;
+    width: 32px;
+    height: 32px;
+    margin:40px 20px;
+    background-image: url("../images/RegisterMaterial/update.png");
+    background-size: 100%;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align:middle;
+}
+
+.vericodeConfirm{
+	width:300px;
+	height:40px;
+	border:none;
+	margin-left:50px;
+	margin-top:10px;
+	background-color:#95C648;
+	font-size:16px;
+	cursor:pointer;
+}
+
+#raincode{
+	background-color:#111;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:30;
+	position:absolute;
+}

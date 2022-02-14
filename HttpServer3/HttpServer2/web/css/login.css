@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+*{
+	margin:0;
+	padding:0;
+	font-family:Arial;
+}
+
+html,body{
+	width:100%;
+	height:100%;
+}
+
+body{
+	background:url("../images/login/loginBg2.png");
+	background-size:cover;
+}
+
+.wrapper{
+	margin:30px 1000px;
+	position:relative;
+	width:500px;
+	height:450px;
+}
+
+/*密码重设区域*/
+.loginArea{
+	width:100%;
+	height:100%;
+	right:0;
+	display:inline-block;
+	position:absolute;
+	background-color:white;
+}
+
+.head{
+	color:rgb(0,159,233);
+	margin-left: 25%;
+}
+
+.loginArea input{
+	width:300px;
+	height:30px;
+	font-size:16px;
+	margin-top:10px;
+}
+
+
+.loginArea p{
+	width:300px;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	display:block;
+	color:red;
+}
+
+.inputArea{
+	margin:10px 80px;
+	width:400px;
+}
+
+ #forgetPassword,#backToIndex,#registerNow{
+	text-decoration: underline;
+	color:rgb(0,159,233);
+	cursor:pointer;
+	margin-left:50px;
+	margin-top:10px;
+	text-align:center;
+	display:inline-block;
+	font-size:16px;
+}
+
+         
+.vericode-error{
+	width:100px !important;
+	display:inline-block !important;
+}
+
+.vericode-input div{
+	margin-left:10px;
+	margin-top:10px;
+	position:relative;
+}
+
+.vericode-input div input{
+	width:100px;
+	height:30px;
+}
+
+.confirmLogin{
+	width:300px;
+	height:40px;
+	border:none;
+	margin-left:80px;
+	margin-top:20px;
+	background-color:#95C648;
+	font-size:16px;
+	display:block;
+	cursor:pointer;
+}
+
+.canvas{
+	width:270px;
+	height:80px;
+	margin-left:10px;
+	border:1px solid #000;
+    border-radius: 5px;
+    background-image: url("../images/login/canvasbg.png");
+}
+.refresh{
+	position: absolute;
+    width: 32px;
+    height: 32px;
+    margin-top:30px;
+    margin-left:20px;
+    background-image: url("../images/login/update.png");
+    background-size: 100%;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align:middle;
+}

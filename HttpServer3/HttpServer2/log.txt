@@ -1,0 +1,2196 @@
+[2021-6-5 10:3:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 10:3:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+[2021-6-5 10:3:20][pid:13758][tid:13758][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+
+[2021-6-5 10:3:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-5 10:3:20][pid:13759][tid:13759][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-5 10:3:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-5 10:3:20][pid:13758][tid:13758][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 10:3:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-5 10:3:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-5 10:4:3][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-5 10:4:3][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-5 10:4:4][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第23http连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:4:26][pid:13757][tid:13786][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:4:40][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第24http连接成功]
+
+[2021-6-5 10:4:40][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第25http连接成功]
+
+[2021-6-5 10:4:40][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第26http连接成功]
+
+[2021-6-5 10:4:41][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第27http连接成功]
+
+[2021-6-5 10:4:41][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第28http连接成功]
+
+[2021-6-5 10:4:52][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第29http连接成功]
+
+[2021-6-5 10:4:56][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第30http连接成功]
+
+[2021-6-5 10:5:38][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第31http连接成功]
+
+[2021-6-5 10:5:38][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第32http连接成功]
+
+[2021-6-5 10:5:38][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第33http连接成功]
+
+[2021-6-5 10:5:38][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第34http连接成功]
+
+[2021-6-5 10:5:38][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第35http连接成功]
+
+[2021-6-5 10:5:38][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第36http连接成功]
+
+[2021-6-5 10:5:38][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第37http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第38http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第39http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第40http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第41http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第42http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第43http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第44http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第45http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第46http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第47http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第48http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第49http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第50http连接成功]
+
+[2021-6-5 10:5:46][pid:13757][tid:13779][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 10:6:15][pid:13757][tid:13757][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 10:7:19][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第51http连接成功]
+
+[2021-6-5 10:7:19][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第52http连接成功]
+
+[2021-6-5 10:7:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第53http连接成功]
+
+[2021-6-5 10:7:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第54http连接成功]
+
+[2021-6-5 10:7:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第55http连接成功]
+
+[2021-6-5 10:7:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第56http连接成功]
+
+[2021-6-5 10:7:20][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第57http连接成功]
+
+[2021-6-5 10:7:27][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第58http连接成功]
+
+[2021-6-5 10:7:27][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第59http连接成功]
+
+[2021-6-5 10:7:27][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第60http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第61http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第62http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第63http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第64http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第65http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第66http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第67http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第68http连接成功]
+
+[2021-6-5 10:7:28][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第69http连接成功]
+
+[2021-6-5 10:7:29][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第70http连接成功]
+
+[2021-6-5 10:7:29][pid:13757][tid:13779][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 10:7:47][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第71http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第72http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第73http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第74http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第75http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第76http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第77http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第78http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第79http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第80http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第81http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第82http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第83http连接成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13776][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 10:8:12][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第84http连接成功]
+
+[2021-6-5 10:8:15][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第85http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第86http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第87http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第88http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第89http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第90http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第91http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第92http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第93http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第94http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第95http连接成功]
+
+[2021-6-5 10:8:45][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第96http连接成功]
+
+[2021-6-5 10:8:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第97http连接成功]
+
+[2021-6-5 10:8:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第98http连接成功]
+
+[2021-6-5 10:8:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第99http连接成功]
+
+[2021-6-5 10:8:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第100http连接成功]
+
+[2021-6-5 10:8:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第101http连接成功]
+
+[2021-6-5 10:8:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第102http连接成功]
+
+[2021-6-5 10:8:46][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第103http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第104http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第105http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第106http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第107http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第108http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第109http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第110http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第111http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第112http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第113http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第114http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第115http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13757][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第116http连接成功]
+
+[2021-6-5 10:8:54][pid:13757][tid:13790][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 10:13:31][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 10:13:31][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+[2021-6-5 10:13:31][pid:17053][tid:17053][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+[2021-6-5 10:13:31][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-5 10:13:31][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-5 10:13:31][pid:17054][tid:17054][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+[2021-6-5 10:13:31][pid:17053][tid:17053][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+
+[2021-6-5 10:13:31][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-5 10:13:46][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-5 10:14:4][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-5 10:14:4][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-5 10:14:4][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-5 10:14:4][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-5 10:14:4][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-5 10:14:4][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-5 10:14:4][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17324][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第23http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第24http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第25http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第26http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第27http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第28http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第29http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第30http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第31http连接成功]
+
+[2021-6-5 10:14:10][pid:17052][tid:17326][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 10:14:21][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第32http连接成功]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 10:14:54][pid:17052][tid:17052][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 10:15:6][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第33http连接成功]
+
+[2021-6-5 10:15:6][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第34http连接成功]
+
+[2021-6-5 10:15:6][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第35http连接成功]
+
+[2021-6-5 10:15:6][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第36http连接成功]
+
+[2021-6-5 10:15:7][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第37http连接成功]
+
+[2021-6-5 10:15:7][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第38http连接成功]
+
+[2021-6-5 10:15:7][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第39http连接成功]
+
+[2021-6-5 10:15:15][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第40http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第41http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第42http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第43http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第44http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第45http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第46http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第47http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第48http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第49http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第50http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第51http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第52http连接成功]
+
+[2021-6-5 10:15:16][pid:17052][tid:17335][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 10:36:39][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第53http连接成功]
+
+[2021-6-5 10:43:38][pid:17052][tid:17052][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第54http连接成功]
+
+[2021-6-5 14:36:48][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 14:36:48][pid:7287][tid:7287][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+[2021-6-5 14:36:48][pid:7288][tid:7288][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-5 14:36:48][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+[2021-6-5 14:36:48][pid:7287][tid:7287][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 14:36:48][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-5 14:36:48][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-5 14:36:48][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 14:37:17][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-5 14:37:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-5 14:37:38][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-5 14:37:38][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-5 14:37:38][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 14:37:39][pid:7286][tid:8148][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 14:37:58][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-5 14:38:1][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-5 14:38:1][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-5 14:38:16][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-5 14:38:16][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-5 14:38:18][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-5 14:38:18][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-5 14:38:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-5 14:38:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-5 14:38:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+
+[2021-6-5 14:38:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第23http连接成功]
+
+[2021-6-5 14:38:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第24http连接成功]
+
+[2021-6-5 14:38:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第25http连接成功]
+
+[2021-6-5 14:38:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第26http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第27http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第28http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第29http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第30http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第31http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第32http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第33http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第34http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第35http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第36http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第37http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第38http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第39http连接成功]
+
+[2021-6-5 14:38:54][pid:7286][tid:8154][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 14:39:6][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第40http连接成功]
+
+[2021-6-5 14:39:55][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第41http连接成功]
+
+[2021-6-5 14:39:55][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第42http连接成功]
+
+[2021-6-5 14:39:56][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第43http连接成功]
+
+[2021-6-5 14:39:56][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第44http连接成功]
+
+[2021-6-5 14:39:57][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第45http连接成功]
+
+[2021-6-5 14:39:58][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第46http连接成功]
+
+[2021-6-5 14:39:58][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第47http连接成功]
+
+[2021-6-5 14:39:59][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第48http连接成功]
+
+[2021-6-5 14:40:0][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第49http连接成功]
+
+[2021-6-5 14:40:46][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第50http连接成功]
+
+[2021-6-5 14:40:51][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第51http连接成功]
+
+[2021-6-5 14:40:51][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第52http连接成功]
+
+[2021-6-5 14:40:51][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第53http连接成功]
+
+[2021-6-5 14:41:17][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第54http连接成功]
+
+[2021-6-5 14:41:17][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第55http连接成功]
+
+[2021-6-5 14:41:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第56http连接成功]
+
+[2021-6-5 14:41:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第57http连接成功]
+
+[2021-6-5 14:41:19][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第58http连接成功]
+
+[2021-6-5 14:41:23][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第59http连接成功]
+
+[2021-6-5 14:41:30][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第60http连接成功]
+
+[2021-6-5 14:41:59][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第61http连接成功]
+
+[2021-6-5 14:41:59][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第62http连接成功]
+
+[2021-6-5 14:42:0][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第63http连接成功]
+
+[2021-6-5 14:42:5][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第64http连接成功]
+
+[2021-6-5 14:42:5][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第65http连接成功]
+
+[2021-6-5 14:42:10][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第66http连接成功]
+
+[2021-6-5 14:42:11][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第67http连接成功]
+
+[2021-6-5 14:42:44][pid:7286][tid:7286][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第68http连接成功]
+
+[2021-6-5 16:4:31][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 16:4:31][pid:3599][tid:3599][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-5 16:4:31][pid:3598][tid:3598][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+[2021-6-5 16:4:31][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+
+[2021-6-5 16:4:31][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-5 16:4:31][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-5 16:4:31][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-5 16:4:31][pid:3598][tid:3598][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-5 16:5:33][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-5 16:5:34][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-5 16:5:34][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-5 16:5:34][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-5 16:5:34][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-5 16:5:34][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-5 16:5:34][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-5 16:5:37][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-5 16:5:37][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-5 16:5:37][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-5 16:5:37][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-5 16:5:37][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-5 16:5:37][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-5 16:5:37][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-5 16:5:44][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-5 16:5:44][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-5 16:5:44][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:5:46][pid:3597][tid:4040][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第23http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第24http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第25http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第26http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第27http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第28http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第29http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第30http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第31http连接成功]
+
+[2021-6-5 16:5:47][pid:3597][tid:4046][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:6:12][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第32http连接成功]
+
+[2021-6-5 16:6:12][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第33http连接成功]
+
+[2021-6-5 16:6:14][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第34http连接成功]
+
+[2021-6-5 16:6:14][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第35http连接成功]
+
+[2021-6-5 16:6:14][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第36http连接成功]
+
+[2021-6-5 16:6:14][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第37http连接成功]
+
+[2021-6-5 16:6:15][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第38http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第39http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第40http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第41http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第42http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第43http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第44http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第45http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第46http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第47http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第48http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第49http连接成功]
+
+[2021-6-5 16:6:23][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第50http连接成功]
+
+[2021-6-5 16:6:24][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第51http连接成功]
+
+[2021-6-5 16:6:24][pid:3597][tid:4048][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:6:43][pid:3597][tid:3597][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第52http连接成功]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:6:46][pid:3597][tid:3597][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:7:20][pid:4728][tid:4728][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 16:7:20][pid:4729][tid:4729][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+[2021-6-5 16:7:20][pid:4728][tid:4728][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:33][content:Address already in use]
+
+[2021-6-5 16:7:20][pid:4730][tid:4730][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-5 16:7:20][pid:4729][tid:4729][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 16:7:57][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 16:7:57][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+[2021-6-5 16:7:57][pid:4762][tid:4762][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+[2021-6-5 16:7:57][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+
+[2021-6-5 16:7:57][pid:4763][tid:4763][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-5 16:7:57][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-5 16:7:57][pid:4762][tid:4762][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 16:7:57][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:8:4][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-5 16:8:5][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-5 16:8:7][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-5 16:8:7][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-5 16:8:7][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-5 16:8:7][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-5 16:8:7][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-5 16:8:7][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-5 16:8:7][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5171][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第23http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第24http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第25http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第26http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第27http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第28http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第29http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第30http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第31http连接成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:5170][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:8:14][pid:4761][tid:4761][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:8:27][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第32http连接成功]
+
+[2021-6-5 16:8:27][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第33http连接成功]
+
+[2021-6-5 16:8:27][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第34http连接成功]
+
+[2021-6-5 16:8:27][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第35http连接成功]
+
+[2021-6-5 16:8:28][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第36http连接成功]
+
+[2021-6-5 16:8:28][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第37http连接成功]
+
+[2021-6-5 16:8:28][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第38http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第39http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第40http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第41http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第42http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第43http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第44http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第45http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第46http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第47http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第48http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第49http连接成功]
+
+[2021-6-5 16:8:44][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第50http连接成功]
+
+[2021-6-5 16:8:45][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第51http连接成功]
+
+[2021-6-5 16:8:45][pid:4761][tid:5174][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:9:39][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第52http连接成功]
+
+[2021-6-5 16:9:46][pid:4761][tid:4761][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第53http连接成功]
+
+[2021-6-5 16:10:16][pid:5989][tid:5989][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 16:10:16][pid:5989][tid:5989][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:33][content:Address already in use]
+
+[2021-6-5 16:10:16][pid:5990][tid:5990][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+[2021-6-5 16:10:16][pid:5991][tid:5991][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-5 16:10:16][pid:5990][tid:5990][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 16:11:8][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 16:11:8][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+[2021-6-5 16:11:8][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-5 16:11:8][pid:6548][tid:6548][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+[2021-6-5 16:11:8][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-5 16:11:8][pid:6549][tid:6549][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-5 16:11:8][pid:6548][tid:6548][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 16:11:8][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-5 16:11:16][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-5 16:11:19][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-5 16:11:19][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-5 16:11:19][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-5 16:11:19][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-5 16:11:19][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-5 16:11:19][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-5 16:11:19][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6930][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第23http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第24http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第25http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第26http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第27http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第28http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第29http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第30http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第31http连接成功]
+
+[2021-6-5 16:11:24][pid:6547][tid:6947][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:11:28][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第32http连接成功]
+
+[2021-6-5 16:11:41][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第33http连接成功]
+
+[2021-6-5 16:11:41][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第34http连接成功]
+
+[2021-6-5 16:11:41][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第35http连接成功]
+
+[2021-6-5 16:11:41][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第36http连接成功]
+
+[2021-6-5 16:11:41][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第37http连接成功]
+
+[2021-6-5 16:11:41][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第38http连接成功]
+
+[2021-6-5 16:11:41][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第39http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第40http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第41http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第42http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第43http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第44http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第45http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第46http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第47http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第48http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第49http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第50http连接成功]
+
+[2021-6-5 16:11:50][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第51http连接成功]
+
+[2021-6-5 16:11:51][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第52http连接成功]
+
+[2021-6-5 16:11:51][pid:6547][tid:6929][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:11:53][pid:6547][tid:6547][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第53http连接成功]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:12:19][pid:6547][tid:6547][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:13:35][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-5 16:13:35][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+[2021-6-5 16:13:35][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-5 16:13:35][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-5 16:13:35][pid:7883][tid:7883][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+[2021-6-5 16:13:35][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+[2021-6-5 16:13:35][pid:7884][tid:7884][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+
+[2021-6-5 16:13:35][pid:7883][tid:7883][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:13:45][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-5 16:13:47][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-5 16:13:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-5 16:13:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-5 16:13:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-5 16:13:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-5 16:13:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-5 16:13:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-5 16:13:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8291][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第23http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第24http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第25http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第26http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第27http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第28http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第29http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第30http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第31http连接成功]
+
+[2021-6-5 16:13:54][pid:7882][tid:8294][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:13:58][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第32http连接成功]
+
+[2021-6-5 16:14:8][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第33http连接成功]
+
+[2021-6-5 16:14:8][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第34http连接成功]
+
+[2021-6-5 16:14:8][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第35http连接成功]
+
+[2021-6-5 16:14:8][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第36http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第37http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第38http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第39http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第40http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第41http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第42http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第43http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第44http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第45http连接成功]
+
+[2021-6-5 16:14:11][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第46http连接成功]
+
+[2021-6-5 16:14:13][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第47http连接成功]
+
+[2021-6-5 16:14:13][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第48http连接成功]
+
+[2021-6-5 16:14:13][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第49http连接成功]
+
+[2021-6-5 16:14:13][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第50http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第51http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第52http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第53http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第54http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第55http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第56http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第57http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第58http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第59http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第60http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第61http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第62http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第63http连接成功]
+
+[2021-6-5 16:14:21][pid:7882][tid:8294][loglevel:info][filename:work/WebSocketService.hpp][function:wconnect][line:36][content:epoll添加wsfd成功]
+
+[2021-6-5 16:14:25][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第64http连接成功]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-5 16:15:2][pid:7882][tid:7882][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-5 16:34:21][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第65http连接成功]
+
+[2021-6-5 16:34:35][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第66http连接成功]
+
+[2021-6-5 16:34:38][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第67http连接成功]
+
+[2021-6-5 16:34:38][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第68http连接成功]
+
+[2021-6-5 16:34:48][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第69http连接成功]
+
+[2021-6-5 16:34:50][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第70http连接成功]
+
+[2021-6-5 16:34:51][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第71http连接成功]
+
+[2021-6-5 16:34:52][pid:7882][tid:7882][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第72http连接成功]
+
+[2021-6-6 14:12:48][pid:13294][tid:13294][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+[2021-6-6 14:12:48][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+
+[2021-6-6 14:12:48][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+[2021-6-6 14:12:48][pid:13295][tid:13295][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-6 14:12:48][pid:13294][tid:13294][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+
+[2021-6-6 14:12:48][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-6 14:12:48][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-6 14:12:48][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-6 14:12:55][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-6 14:12:56][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-6 14:12:56][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-6 14:12:56][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-6 14:12:56][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-6 14:12:57][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-6 14:12:57][pid:13293][tid:13293][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-6 14:16:6][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-6 14:16:6][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+[2021-6-6 14:16:6][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-6 14:16:6][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-6 14:16:6][pid:13496][tid:13496][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+
+[2021-6-6 14:16:6][pid:13497][tid:13497][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+[2021-6-6 14:16:6][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-6 14:16:6][pid:13496][tid:13496][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-6 14:16:16][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-6 14:16:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-6 14:16:23][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-6 14:16:23][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-6 14:16:23][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 14:16:24][pid:13495][tid:13515][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 14:18:48][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-6 14:18:51][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-6 14:18:51][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-6 14:25:53][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-6 14:35:49][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-6 14:37:59][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-6 14:39:17][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-6 14:40:23][pid:13495][tid:13495][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-6 17:5:15][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:30][content:http socket创建成功]
+
+[2021-6-6 17:5:15][pid:20305][tid:20305][loglevel:info][filename:main.cpp][function:clearFile][line:19][content:正在清理过期的文件]
+[2021-6-6 17:5:15][pid:20306][tid:20306][loglevel:info][filename:main.cpp][function:main][line:47][content:备用进程什么也不干]
+
+
+[2021-6-6 17:5:15][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:36][content:http socket绑定成功]
+
+[2021-6-6 17:5:15][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:42][content:http socket监听成功]
+
+[2021-6-6 17:5:15][pid:20305][tid:20305][loglevel:info][filename:main.cpp][function:clearFile][line:29][content:过期的文件清理完成]
+
+[2021-6-6 17:5:15][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:HttpServer][line:45][content:非阻塞模式设置成功]
+
+[2021-6-6 17:5:15][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:69][content:HTTP服务器启动完成]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第1http连接成功]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第1个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第2个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第3个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第4个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第5个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第6个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第7个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第8个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第9个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第10个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第11个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第12个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第13个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第14个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第15个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/thread_pool.hpp][function:thread_pool][line:70][content:创建第16个线程]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第2http连接成功]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第3http连接成功]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第4http连接成功]
+
+[2021-6-6 17:5:28][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第5http连接成功]
+
+[2021-6-6 17:5:29][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第6http连接成功]
+
+[2021-6-6 17:5:29][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第7http连接成功]
+
+[2021-6-6 17:5:29][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第8http连接成功]
+
+[2021-6-6 17:5:29][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第9http连接成功]
+
+[2021-6-6 17:5:29][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第10http连接成功]
+
+[2021-6-6 17:5:29][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第11http连接成功]
+
+[2021-6-6 17:5:41][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第12http连接成功]
+
+[2021-6-6 17:5:41][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第1个jdbc]
+
+[2021-6-6 17:5:41][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第2个jdbc]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第3个jdbc]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第4个jdbc]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第5个jdbc]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第6个jdbc]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第7个jdbc]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_pool.hpp][function:Mysql_pool][line:15][content:创建第8个jdbc]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:11][content:MySQL初始化成功]
+
+[2021-6-6 17:5:42][pid:20304][tid:20337][loglevel:info][filename:work/../tools/../sql/mysql_jdbc.hpp][function:Mysql_jdbc][line:18][content:MySQL初连接成功]
+
+[2021-6-6 17:7:3][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第13http连接成功]
+
+[2021-6-6 17:7:38][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第14http连接成功]
+
+[2021-6-6 17:7:51][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第15http连接成功]
+
+[2021-6-6 17:7:51][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第16http连接成功]
+
+[2021-6-6 17:7:57][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第17http连接成功]
+
+[2021-6-6 17:7:58][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第18http连接成功]
+
+[2021-6-6 17:10:36][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第19http连接成功]
+
+[2021-6-6 17:13:10][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第20http连接成功]
+
+[2021-6-6 17:13:11][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第21http连接成功]
+
+[2021-6-6 17:13:11][pid:20304][tid:20304][loglevel:info][filename:work/HttpServer.hpp][function:run][line:80][content:第22http连接成功]
+

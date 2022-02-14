@@ -1,0 +1,12 @@
+syntax = "proto3";
+import "transfer.proto";
+package signaling;
+
+
+message Signaling{
+	string command=1;
+	string text=2;
+	repeated transfer.User users=3;
+	repeated transfer.File files=4;
+	repeated transfer.Record records=5;
+}
